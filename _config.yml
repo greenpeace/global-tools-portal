@@ -8,11 +8,11 @@ tagline: A free Jekyll theme for curation websites.
 
 # PATH
 # The URL to your Github repository
-github: 'https://github.com/nihilor/kurator'
+github: 'https://github.com/greenpeace/global-tools-portal'
 # The path to your repository relative to Github
 baseurl: '/kurator'
 # The full URL to your curation website
-url: 'https://nihilor.github.io/kurator'
+url: 'https://greenpeace.github.io/global-tools-portal/'
 # The content fpr the footer
 footer: 'Designed, built, and maintained by <a href="http://twitter.com/marklubkowitz">@marklubkowitz</a>. Based upon <a href="https://github.com/nihilor/kurator">Kurator, a jekyll theme</a>, by <a href="http://twitter.com/marklubkowitz">@marklubkowitz</a>.<br>Code licensed under <a href="https://github.com/nihilor/kurator/blob/master/LICENSE">MIT</a>. Content licensed under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>'
 
@@ -36,15 +36,15 @@ profiles:
       icon: fa-twitter
       link: http://twitter.com/marklubkowitz
     - name: Facebook
-      icon: fa-facebook 
+      icon: fa-facebook
       link: https://www.facebook.com/Mark-Lubkowitz-1624537281099925/
     - name: RSS
-      icon: fa-rss 
+      icon: fa-rss
       link: http://nihilor.github.io/kurator/feed.xml
     - name: Github
-      icon: fa-github 
+      icon: fa-github
       link: https://github.com/nihilor/kurator
-        
+
 
 # OPENGRAPH
 opengraph:
@@ -69,7 +69,7 @@ author:
     name: Mark Lubkowitz
     # URL of your private website
     url: https://mlu.io
-    
+
 # CALL TO ACTION
 # Supply the following attributes to show a Call to Action in a jumbotron on the index page
 cta:
