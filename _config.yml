@@ -76,13 +76,13 @@ author:
 # Supply the following attributes to show a Call to Action in a jumbotron on the index page
 cta:
     # The punchline
-    title: Fork us!
+    title: Add your tool!
     # The description of the Call to Action
-    text: Kurator is open-source. Fork us on Github and create your own curation website in minutes.
+    text: Do you have a tool that could be useful to other greenpeace users? It can be added to this list.
     # The button link
-    link: https://github.com/nihilor/kurator
+    link: https://github.com/greenpeace/global-tools-portal
     # The text of the button
-    linktext: Fork us on Github
+    linktext: Add it on Github
     # Visibility of Call to Action
     showinheader: true
     showasjumbotron: false

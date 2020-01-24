@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Kurator
-category: Theme
+title: User certificates
+category: IT tools
 thumbnail: kurator.png
 gallery:
     - kurator.png
     - kurator.png
 social:
-    website: http://kurator.mlu.io
-    github: https://github.com/nihilor/kurator
-    twitter: http://twitter.com/kuratortheme
-    facebook: http://facebook.com/kuratortheme
-    reddit: 
-    youtube: 
-    twitch: 
+    website: https://script.google.com/a/macros/greenpeace.org/s/AKfycbxc--VfZQp8nZ1lP_VFDiqMI2iUTGGwOMqJhTQXwyB75SHBLtnnAHFtBVIb9Bx0Nb7u9w/exec
+    github:
+    twitter:
+    facebook:
+    reddit:
+    youtube:
+    twitch:
 ---
-Kurator is an open-source Jekyll theme for curation websites. Just fork the theme, add some content, commit the theme to Github, and activate Github pages to run your own curation website.
+Use this tool to issue certificates or manage existing ones. You will need to authenticate and according to your permissions you will get different options.
