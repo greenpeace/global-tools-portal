@@ -13,6 +13,8 @@ github: 'https://github.com/greenpeace/global-tools-portal'
 baseurl: '/kurator'
 # The full URL to your curation website
 url: 'https://greenpeace.github.io/global-tools-portal/'
+# The URL to the logo
+logo: images/greenpeace_logo.png
 # The content fpr the footer
 footer: 'Designed, built, and maintained by <a href="http://twitter.com/marklubkowitz">@marklubkowitz</a>. Based upon <a href="https://github.com/nihilor/kurator">Kurator, a jekyll theme</a>, by <a href="http://twitter.com/marklubkowitz">@marklubkowitz</a>.<br>Code licensed under <a href="https://github.com/nihilor/kurator/blob/master/LICENSE">MIT</a>. Content licensed under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>'
 
