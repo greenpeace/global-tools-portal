@@ -1,8 +1,8 @@
 ---
 layout: page
-title: User certificates
+title: Manage certificates
 category: IT tools
-thumbnail: kurator.png
+thumbnail: 
 gallery:
     - kurator.png
     - kurator.png
