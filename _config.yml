@@ -4,7 +4,7 @@ title: Tools
 # A brief description of your website, for use in HTML meta tags
 description: A collection of tools available for Greenpeace users.
 # A brieg tagline of your website, used in the navigation bar
-tagline: A collection of tools available for Greenpeace users.
+tagline: A curated selection of tools available for Greenpeace users to use for different purposes.
 
 # PATH
 # The URL to your Github repository
@@ -82,7 +82,7 @@ cta:
     # The button link
     link: https://github.com/greenpeace/global-tools-portal
     # The text of the button
-    linktext: Add it on Github
+    linktext: Github repository
     # Visibility of Call to Action
     showinheader: true
     showasjumbotron: false
