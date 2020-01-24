@@ -1,10 +1,10 @@
 # SETUP
 # The title of your curation website
-title: Kurator
+title: Tools
 # A brief description of your website, for use in HTML meta tags
-description: A free Jekyll theme for curation websites.
+description: A collection of tools available for Greenpeace users.
 # A brieg tagline of your website, used in the navigation bar
-tagline: A free Jekyll theme for curation websites.
+tagline: A collection of tools available for Greenpeace users.
 
 # PATH
 # The URL to your Github repository
