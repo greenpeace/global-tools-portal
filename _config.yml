@@ -10,7 +10,7 @@ tagline: A free Jekyll theme for curation websites.
 # The URL to your Github repository
 github: 'https://github.com/greenpeace/global-tools-portal'
 # The path to your repository relative to Github
-baseurl: '/kurator'
+baseurl:
 # The full URL to your curation website
 url: 'https://greenpeace.github.io/global-tools-portal/'
 # The URL to the logo
