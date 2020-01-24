@@ -1,0 +1,111 @@
+---
+---
+
+@import 'bootstrap';
+
+body {
+    background-color: $gray-lightest;
+}
+a {
+    word-wrap: break-word;
+    &:hover {
+        text-decoration: none;
+    }
+}
+.content {
+    padding: 40px 0;
+
+    h2 {
+        margin-bottom: 1rem;
+    }
+    h2:not(:first-child) {
+        margin-top: 3rem;
+    }
+}
+.card {
+    border: none;
+    margin-bottom: 0;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.card-footer {
+    background: none;
+    border: none;
+}
+.card-block {
+    flex: 1 1 auto;
+}
+.card-img-top {
+    max-width: 100%;
+    width: 100%;
+    display: block;
+}
+.btn-icon {
+    color: $gray-light;
+    &:hover {
+        color: $gray-dark;
+    }
+}
+.weight-3 {
+    font-weight: 300;
+}
+footer {
+    padding: 4rem 2rem;
+    background-color: #fff;
+    div, p {
+        text-align: center;
+    }
+    p {
+        font-size: 0.85rem;
+    }
+}
+.jumbotron {
+    background-color: #fff;
+}
+.social-label {
+    margin-left: 0.5rem;
+}
+.gallery {
+    .img-fluid {
+        padding-bottom: 1rem;
+    }
+}
+dt {
+    i {
+        color: $gray-light;
+    }
+}
+.row {
+    /* Safari fix */
+    min-height: 100%;
+}
+.item {
+    margin: 1rem 0;
+    /* Safari fix */
+    min-height: 100%;
+}
+.text-inverse {
+    color: rgba(255,255,255,0.5);
+    h1, h2, h3, h4, h5, h6 {
+        color: rgba(255,255,255,1);
+    }
+}
+a {
+    &.link-inverse {
+        color: rgba(255,255,255,0.7);
+        &:hover {
+            color: rgba(255,255,255,1);
+        }
+    }
+}
+.bg-primary {
+    &.text-inverse {
+        .btn-primary {
+            background-color: rgba(255,255,255,0.2) !important;
+            &:hover {
+                background-color: rgba(0,0,0,0.1) !important;
+            }
+        }
+    }
+}
