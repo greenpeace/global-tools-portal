@@ -4,8 +4,8 @@ title: Manage Certificates
 category: IT tools
 thumbnail: 
 gallery:
-    - kurator.png
-    - kurator.png
+    - sslcertificate-300x250.png
+    - sslcertificate-300x250.png
 social:
     website: https://ca-server-2020.tools.greenpeace.org/
     github:  https://github.com/greenpeace/global-tools-portal/
