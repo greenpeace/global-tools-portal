@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Manage certificates
+title: Manage Certificates
 category: IT tools
 thumbnail: 
 gallery:
     - kurator.png
     - kurator.png
 social:
-    website: https://script.google.com/a/macros/greenpeace.org/s/AKfycbxc--VfZQp8nZ1lP_VFDiqMI2iUTGGwOMqJhTQXwyB75SHBLtnnAHFtBVIb9Bx0Nb7u9w/exec
+    website: https://ca-server-2020.tools.greenpeace.org/
     github:
     twitter:
     facebook:
