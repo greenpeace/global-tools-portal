@@ -8,7 +8,7 @@ gallery:
     - kurator.png
 social:
     website: https://ca-server-2020.tools.greenpeace.org/
-    github:
+    github:  https://github.com/greenpeace/global-tools-portal/
     twitter:
     facebook:
     reddit:
