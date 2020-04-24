@@ -2,7 +2,7 @@
 layout: page
 title: Manage Certificates
 category: IT tools
-thumbnail: 
+thumbnail: sslcertificate-300x250.png
 gallery:
     - sslcertificate-300x250.png
 social:
